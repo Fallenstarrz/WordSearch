@@ -1,0 +1,5 @@
+Polymorphism enables us to program in the general rather than program in the specific. It enables us to write programs that process objects of classes that are part of the same class hierarchy.
+
+Polymorphism enables the programmer to concentrate on the common operations that are applied to objects of all the classes in a hierarchy.
+
+The main problems with programming using switch logic are extensibility and program maintainability. Program containing many switch statements is difficult to modify.
